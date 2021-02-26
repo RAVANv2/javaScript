@@ -1,0 +1,9 @@
+.buttonGrid {
+    width: 75%;
+}
+
+.buttonGrid > .button {
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+}
